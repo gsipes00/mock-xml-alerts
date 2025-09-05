@@ -1,0 +1,12 @@
+<gauges>
+  <gage_wl id="50080007" name="Cottonwood Creek at East McCarty Lane" stage="3.0" lat="029:51:42.89N" long="097:55:57.96W" />
+  <gage_wl id="50081007" name="Cottonwood Creek at Clovis Barker Road" stage="5.70" lat="029:52:10.00N" long="097:56:10.00W" />
+  <gage_wl id="50082007" name="Purgatory Creek at Hunter Road" stage="8.00" lat="029:53:00.00N" long="097:57:00.00W" />
+  <gage_wl id="50083007" name="Purgatory Creek at Guadalupe Street" stage="12.00" lat="029:54:00.00N" long="097:58:00.00W" />
+  <gage_wl id="50084007" name="San Marcos River at Cape Road" stage="6.00" lat="029:55:00.00N" long="097:59:00.00W" />
+  <gage_wl id="50085007" name="By Pass Creek at Harris Hill Road" stage="4.00" lat="029:56:00.00N" long="098:00:00.00W" />
+  <gage_wl id="50086007" name="Sink Creek at Lime Kiln Road" stage="7.00" lat="029:57:00.00N" long="098:01:00.00W" />
+  <gage_wl id="50087007" name="Sink Creek at Bert Brown Road" stage="2.00" lat="029:58:00.00N" long="098:02:00.00W" />
+  <gage_wl id="50088007" name="Willow Springs at Hunter Road" stage="7.00" lat="029:59:00.00N" long="098:03:00.00W" />
+  <gage_wl id="50089007" name="Willow Springs at Patton Street" stage="8.00" lat="030:00:00.00N" long="098:04:00.00W" />
+</gauges>

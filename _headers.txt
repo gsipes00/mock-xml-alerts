@@ -1,0 +1,2 @@
+/mockRainfallValues.xml
+  Content-Type: application/xml
