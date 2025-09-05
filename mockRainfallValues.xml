@@ -1,5 +1,5 @@
 <rain_gauges>
-  <gage_rain id="50080000" name="Cottonwood Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="5.66" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:51:42.89N" long="097:55:57.96W" />
+  <gage_rain id="50080000" name="Cottonwood Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="6.66" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:51:42.89N" long="097:55:57.96W" />
   <gage_rain id="50081000" name="Clovis Barker Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:52:10.00N" long="097:56:10.00W" />
   <gage_rain id="50082000" name="Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:53:00.00N" long="097:57:00.00W" />
   <gage_rain id="50083000" name="Guadalupe Street Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:54:00.00N" long="097:58:00.00W" />
