@@ -1,12 +1,19 @@
 <rain_gauges>
-  <gage_rain id="50080000" name="Cottonwood Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="5.06" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:51:42.89N" long="097:55:57.96W" />
-  <gage_rain id="50081000" name="Clovis Barker Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="1.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:52:10.00N" long="097:56:10.00W" />
+  <gage_rain id="50080000" name="Cottonwood Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:51:42.89N" long="097:55:57.96W" />
+  <gage_rain id="50081000" name="Clovis Barker Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:52:10.00N" long="097:56:10.00W" />
   <gage_rain id="50082000" name="Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:53:00.00N" long="097:57:00.00W" />
   <gage_rain id="50083000" name="Guadalupe Street Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:54:00.00N" long="097:58:00.00W" />
   <gage_rain id="50084000" name="Cape Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:55:00.00N" long="097:59:00.00W" />
   <gage_rain id="50085000" name="By Pass Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:56:00.00N" long="098:00:00.00W" />
-  <gage_rain id="50086000" name="Sink Creek at Lime Kiln Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="1.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:57:00.00N" long="098:01:00.00W" />
+  <gage_rain id="50086000" name="Sink Creek at Lime Kiln Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:57:00.00N" long="098:01:00.00W" />
   <gage_rain id="50087000" name="Sink Creek at Bert Brown Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:58:00.00N" long="098:02:00.00W" />
-  <gage_rain id="50088000" name="Willow Springs at Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="1.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:59:00.00N" long="098:03:00.00W" />
-  <gage_rain id="50089000" name="Willow Springs at Patton Street Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="1.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="030:00:00.00N" long="098:04:00.00W" />
+  <gage_rain id="50088000" name="Willow Springs at Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:59:00.00N" long="098:03:00.00W" />
+  <gage_rain id="50089000" name="Willow Springs at Patton Street Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="030:00:00.00N" long="098:04:00.00W" />
 </rain_gauges>
+
+
+
+<div style="position:relative;padding-bottom:66.118421052632%">
+  <iframe id="kmsembed-1_2rc7uxir" width="608" height="402" src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_2rc7uxir/uiConfId/49806163/st/795" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Plenary Session Part 1-of-3" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
+  </iframe>
+</div>
