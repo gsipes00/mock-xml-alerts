@@ -4,7 +4,7 @@
   <gage_rain id="50082000" name="Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:53:00.00N" long="097:57:00.00W" />
   <gage_rain id="50083000" name="Guadalupe Street Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:54:00.00N" long="097:58:00.00W" />
   <gage_rain id="50084000" name="Cape Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:55:00.00N" long="097:59:00.00W" />
-  <gage_rain id="50085000" name="By Pass Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:56:00.00N" long="098:00:00.00W" />
+  <gage_rain id="50085000" name="By Pass Creek Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="2.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:56:00.00N" long="098:00:00.00W" />
   <gage_rain id="50086000" name="Sink Creek at Lime Kiln Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:57:00.00N" long="098:01:00.00W" />
   <gage_rain id="50087000" name="Sink Creek at Bert Brown Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:58:00.00N" long="098:02:00.00W" />
   <gage_rain id="50088000" name="Willow Springs at Hunter Road Rain Gauge" last_rpt="2025-09-05T12:00:00" hour_1="0.00" hour_3="0.00" hour_6="0.00" hour_12="0.00" lat="029:59:00.00N" long="098:03:00.00W" />
